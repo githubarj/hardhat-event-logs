@@ -34,7 +34,7 @@ This will print out the events from our smart contracts.
 To deploy to a testnet, you'll need.
 
 1. [A Blockchain wallet](https://metamask.io/)
-2. [Testnet gorrli ETH](https://goerlifaucet.com/) in your Blockchain Wallet.
+2. [Testnet goerli ETH](https://goerlifaucet.com/) in your Blockchain Wallet.
 3. [An alchemy RPC URL](https://www.alchemy.com/)
 4. [An Etherscan API Key](https://etherscan.io/apis)
 
