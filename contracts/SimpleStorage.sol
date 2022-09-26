@@ -6,8 +6,8 @@ contract SimpleStorage {
     uint256 public favoriteNumber;
 
     event storedNumber(
-        uint256 indexed olNumber,
-        uint256 indexed newNUmber,
+        uint256 indexed oldNumber,
+        uint256 indexed newNumber,
         uint256 addedNumber,
         address sender
     );//this is now a new tye called stored number
